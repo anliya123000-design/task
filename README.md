@@ -1,4 +1,4 @@
-# task 
+# task 1
 Q1 answer : in samples
 Q2 answer:complied using risc-v gcc toolchain
 Q3 answer:ib ,iw
